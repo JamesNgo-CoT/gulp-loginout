@@ -1,0 +1,29 @@
+{
+  "name": "gulp-loginout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesNgo-CoT/gulp-loginout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesNgo-CoT/gulp-loginout/issues"
+  },
+  "homepage": "https://github.com/JamesNgo-CoT/gulp-loginout#readme",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "dotenv": "^10.0.0",
+    "eslint": "^8.5.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "node-loginout": "git+https://github.com/JamesNgo-CoT/node-loginout.git#2.2.0"
+  }
+}
